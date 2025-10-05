@@ -21,7 +21,7 @@ namespace ConsoleMenuApp
                 Console.WriteLine("4. Угадай число(Акинатор)");
                 Console.WriteLine("5. Кофе-машина");
                 Console.WriteLine("6. Эксперимент");
-                Console.WriteLine("7. Пункт 7");
+                Console.WriteLine("7. Высадка на Марс");
                 Console.WriteLine("8. Выход");
                 Console.Write("Выберите пункт меню (1-8): ");
 
@@ -372,4 +372,5 @@ namespace ConsoleMenuApp
             Console.WriteLine("Завершение работы программы...");
         }
     }
+
 }
