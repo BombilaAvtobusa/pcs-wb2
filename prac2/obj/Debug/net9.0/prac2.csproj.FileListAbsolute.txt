@@ -1,0 +1,14 @@
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\obj\Debug\net9.0\prac2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\obj\Debug\net9.0\prac2.AssemblyInfoInputs.cache
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\obj\Debug\net9.0\prac2.AssemblyInfo.cs
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\obj\Debug\net9.0\prac2.csproj.CoreCompileInputs.cache
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\bin\Debug\net9.0\prac2.exe
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\bin\Debug\net9.0\prac2.deps.json
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\bin\Debug\net9.0\prac2.runtimeconfig.json
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\bin\Debug\net9.0\prac2.dll
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\bin\Debug\net9.0\prac2.pdb
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\obj\Debug\net9.0\prac2.dll
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\obj\Debug\net9.0\refint\prac2.dll
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\obj\Debug\net9.0\prac2.pdb
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\obj\Debug\net9.0\prac2.genruntimeconfig.cache
+C:\Users\BombilaAvtobusa\source\repos\prac2\prac2\obj\Debug\net9.0\ref\prac2.dll
